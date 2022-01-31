@@ -11,7 +11,7 @@
                 p.pixel-font CryptoLucha
             #navbarMenuHeroC.navbar-menu
               .navbar-end
-                a.navbar-item
+                a.navbar-item(href='https://github.com/wiggimx/create-nft-polygon' target="_blank")
                   span.icon
                     font-awesome-icon(:icon="['fab','github']")
                   span.pixel-font Github
@@ -39,8 +39,8 @@
         p
           strong Cryptolucha
           |  esta hecho con mucho ❤  por 
-          a(href='https://twitter.com/xgartur') Arturo Guerrero
-        a(href='https://twitter.com/xgartur') 
+          a(href='https://twitter.com/xgartur' target="_blank") Arturo Guerrero
+        a(href='https://github.com/wiggimx/create-nft-polygon' target="_blank") 
           span.icon
             font-awesome-icon(:icon="['fab','github']")
           span.pixel-font Github
